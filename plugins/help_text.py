@@ -51,8 +51,8 @@ def send_start(bot, update):
         parse_mode="markdown",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id, 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Sruja_12")],
-                                           [InlineKeyboardButton(text="About Me", callack_data="about")])]
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Sruja_12")]]),
+                                        
     )
 
 
@@ -77,7 +77,7 @@ async def about(bot, update):
         reply_to_message_id=update.message_id, 
         disable_web_page_preview = True, 
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Sruja_12")],
-                                           [InlinekeyboardButton(text="Help", callback_data="help")])]
+                                           [InlinekeyboardButton(text="Help", callback_data="help")]])
     )
 
 
