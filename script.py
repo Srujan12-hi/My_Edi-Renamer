@@ -44,7 +44,7 @@ Just do the following steps :
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+<b>By @Sruja_12</b>
 """
 
     ABOUT_TEXT = """
@@ -63,7 +63,7 @@ Just do the following steps :
 
 ➪ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://t.me/source_code_of_file_store_bot/2) 
 
-➪ Developer : [▁▂▄▅▆▇█🎀𝒮𝓇𝓊𝒿𝒶𝓃 🎀▆▅▄▂▁ ⁪⁬⁮⁮⁮⁮ ‌](https://t.me/Sruja_12)
+➪ Developer : [Moon •‌](https://t.me/Sruja_12)
 
 © [Srujan](https://t.me/Sruja_12)
 
