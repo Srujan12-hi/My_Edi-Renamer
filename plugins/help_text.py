@@ -79,7 +79,7 @@ async def about(bot, update):
         reply_to_message_id=update.message_id, 
         disable_web_page_preview = True, 
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Sruja_12")],
-                                           [InlinekeyboardButton(text="Help", callback_data="help")]])
+                                           [InlineKeyboardButton(text="Help", callback_data="help")]])
     )
 
 
